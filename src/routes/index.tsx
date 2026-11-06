@@ -1,5 +1,5 @@
 import { createFileRoute } from "@tanstack/react-router";
-import { ArrowDown, ArrowDownRight, ArrowUpRight, BriefcaseBusiness, Code2, ExternalLink, Github, Linkedin, Mail, MapPin, Sparkles } from "lucide-react";
+import { ArrowDown, ArrowDownRight, ArrowUpRight, BriefcaseBusiness, Code2, ExternalLink, Github, Linkedin, MapPin, Sparkles } from "lucide-react";
 import portrait from "@/assets/shravani-illustrated-portrait.jpg";
 import resumeAsset from "@/assets/shravani-resume.pdf.asset.json";
 import { Button } from "@/components/ui/button";
@@ -138,7 +138,7 @@ function Portfolio() {
             <Button asChild size="lg" className="button-primary">
               <a href="#work">Explore my work <ArrowDownRight size={17} /></a>
             </Button>
-            <a className="text-link" href="mailto:mamillamahalaxmi031@gmail.com">Let’s connect <ArrowUpRight size={15} /></a>
+            <a className="text-link" href="mailto:shravani299m55@gmail.com">Let’s connect <ArrowUpRight size={15} /></a>
           </div>
           <div className="hero-meta"><MapPin size={14} /> Hyderabad, India <span className="meta-divider">/</span> BE Computer Science ’28</div>
         </div>
@@ -236,7 +236,7 @@ function Portfolio() {
       <footer id="contact" className="contact-section">
         <div className="section-wrap">
           <div className="section-kicker"><span>06 — SAY HELLO</span><span>Good ideas start with a conversation</span></div>
-          <div className="contact-content"><div><span className="contact-overline">OPEN TO INTERNSHIPS &amp; COLLABORATION</span><h2>Have a good<br />question? <em>Let’s talk.</em></h2><a className="contact-email" href="mailto:mamillamahalaxmi031@gmail.com">mamillamahalaxmi031@gmail.com <ArrowUpRight size={20} /></a></div><div className="contact-side"><p>I’m excited to learn, contribute, and meet people who are making useful things with technology.</p><div className="social-links"><a href="https://www.linkedin.com/in/shravani-mamilla-822adf" target="_blank" rel="noreferrer"><Linkedin size={17} /> LinkedIn <ArrowUpRight size={14} /></a><a href="https://github.com/160624733299-design" target="_blank" rel="noreferrer"><Github size={17} /> GitHub <ArrowUpRight size={14} /></a><a href="tel:+918328211307"><Mail size={17} /> +91 83282 11307 <ArrowUpRight size={14} /></a></div></div></div>
+          <div className="contact-content"><div><span className="contact-overline">OPEN TO INTERNSHIPS &amp; COLLABORATION</span><h2>Have a good<br />question? <em>Let’s talk.</em></h2><a className="contact-email" href="mailto:shravani299m55@gmail.com">shravani299m55@gmail.com <ArrowUpRight size={20} /></a></div><div className="contact-side"><p>I’m excited to learn, contribute, and meet people who are making useful things with technology.</p><div className="social-links"><a href="https://www.linkedin.com/in/shravani-mamilla-822adf" target="_blank" rel="noreferrer"><Linkedin size={17} /> LinkedIn <ArrowUpRight size={14} /></a><a href="https://github.com/160624733299-design" target="_blank" rel="noreferrer"><Github size={17} /> GitHub <ArrowUpRight size={14} /></a></div></div></div>
           <div className="footer-bottom"><a className="wordmark footer-wordmark" href="#home"><span className="wordmark-icon">s.</span><span>Shravani Mamilla</span></a><span>MADE WITH CURIOSITY · HYDERABAD, INDIA</span><a href="#home">BACK TO TOP ↑</a></div>
         </div>
       </footer>
